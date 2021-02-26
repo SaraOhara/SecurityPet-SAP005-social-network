@@ -26,10 +26,10 @@ Pensando nessses usuários criamos a SECURITY PET, uma rede social totalmente vo
 Para o desenvolvimento da rede social fizemos uma pesquisa com usuários na faixa etária entre 18 e 54 anos.
 Na SECURITY PET o usuário terá contato com profissionais da voltados a todo tipo de atendimento pet, e o contato com outros amantes e donos de pets, para compartilhar fotos e dicas sobre pets.
 
-### 3. Personas
+## 3. Personas
 ![alt text](src/img/personas.png)
 
-### 4.Funcionalidades
+## 4. Funcionalidades
 Novos usuários podem se cadastrar na rede através do cadastro do próprio site ou pelo login do Google;
 Usuários já cadastrados podem acessar a plataforma através de email e senha ou pelo login do Google;
 No feed de postagens é possível visualizar todas as postagens, tanto do usuário logado quanto de outros usuários, ordenadas das mais recentes às mais antigas. 
@@ -37,10 +37,10 @@ O usuário pode publicar texto, imagens e gifs em seus posts e também podem edi
 Os usuários podem dar like ou desfazê-lo, além de comentar um post.
 No perfil o usuário pode editar a imagem do seu perfil.
 
-### 5. Protótipos
+## 5. Protótipos
 ![alt text](src/img/redesocial.png)
 
-### 6. Aprendizado
+## 6. Aprendizado
 Aprendizado:
 Manipulação da maior parte do layout da página em Flexbox - CSS
 Uso de callbacks, consumo de Promises e uso de ES Modules - JS
@@ -50,14 +50,14 @@ Colaboração por Git e GitHub.
 Tecnologias Ultilizadas: 
 * HTML5 semântico
 * Conceitos fundamentais de CSS3
-*  Mobile first
+* Mobile first
 * VanillaJS / JavaScript (ES6+)
 * Sistema de rotas / (SPA)
- * Trello
- Node.js
- Firebase
+* Trello
+* Node.js
+* Firebase
 
 ### .Desenvolvido por:
-*[Tânagra Andria](https://github.com/TanagraAndria)
-*[Sara Viana](https://github.com/SaraOhara)  
-*[Stêfani Martins](https://github.com/martinstfn)
+[Tânagra Andria](https://github.com/TanagraAndria)
+[Sara Viana](https://github.com/SaraOhara)  
+[Stêfani Martins](https://github.com/martinstfn)
