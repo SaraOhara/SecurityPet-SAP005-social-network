@@ -57,7 +57,9 @@ Tecnologias Ultilizadas:
 * Node.js
 * Firebase
 
-### .Desenvolvido por:
+### Desenvolvido por:
 [Tânagra Andria](https://github.com/TanagraAndria)
+
 [Sara Viana](https://github.com/SaraOhara)  
+
 [Stêfani Martins](https://github.com/martinstfn)
